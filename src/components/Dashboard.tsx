@@ -9,7 +9,7 @@ const Dashboard = () => {
         <p>This is a revenue distribution overview</p>
       </div>
       <div>
-        Pie Chart ads25% subscriptions 75%
+        Pie Chart ads 25% subscriptions 75%
       </div>
     </RoundedWrapper>
   )
